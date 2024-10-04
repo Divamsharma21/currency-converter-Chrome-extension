@@ -11,7 +11,7 @@ This Chrome extension is a powerful and intuitive currency converter that suppor
 ## 📹 Demo Video
 Check out the video demo to see the extension in action:
 
-[![Currency Converter Demo](link-to-video)](link-to-video)
+[04.10.2024 17_49.webm](https://github.com/user-attachments/assets/ae2f54a5-e265-48f6-9906-55a08532dcf8)
 
 ## 🛠️ Installation
 1. Clone this repository:
