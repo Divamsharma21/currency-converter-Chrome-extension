@@ -36,7 +36,3 @@ Feel free to connect with me for feedback, collaborations, or questions:
 ## 🤝 Contributing
 Feel free to fork this repository, open issues, or submit pull requests to help improve the extension.
  
-
----
-
-This README now includes your GitHub, LinkedIn, and email for easy connections!
